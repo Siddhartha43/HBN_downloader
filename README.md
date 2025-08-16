@@ -202,11 +202,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Python community for excellent libraries
 - Contributors and users of this tool
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/eeg-downloader](https://github.com/yourusername/eeg-downloader)
-- **Issues**: [https://github.com/yourusername/eeg-downloader/issues](https://github.com/yourusername/eeg-downloader/issues)
-
 ---
 
 ⭐ If this tool helps you, please give it a star on GitHub!
